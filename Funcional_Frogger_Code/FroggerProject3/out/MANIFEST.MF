@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: scala-library-2.12.7.jar scala-reflect-2.12.7.jar scala-li
+ brary-2.12.7-sources.jar scala-reflect-2.12.7-sources.jar
+Main-Class: FroggerApp
+
